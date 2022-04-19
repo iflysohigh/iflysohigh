@@ -5,7 +5,7 @@
 - ✈️ I have traveled to several Asian countries, such as Japan, South Korea, Hong Kong, China, Singapore, and Taiwan. The only non-Asian countries I have visited are  Australia and Canada. I have resided in the United States of America for all my life.
 - 📖 I’m looking for an internship with an intersection in computer science and economics.
 - 🔐 Almost all of my repositories within the GitHub are private, as they pertain to projects performed in classes that could potentially aid current students in such courses. If you would like to have access and are interested (such as for an internship or curiousity), feel free to reach out with the email provided below. 
-- 📫 Contact me at hsn.ey.2020@gmail.com, and I will get back to you as soon as possible. Thanks!
+- 📫 Contact me at yuenethanw@gmail.com, and I will get back to you as soon as possible. Thanks!
 
 <!---
 iflysohigh/iflysohigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
