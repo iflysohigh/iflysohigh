@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iflysohigh, goes by the name Ethan Y.
+- 👋 Hi, I’m @iflysohigh, formally going by the name Ethan Y.
 - 👀 I’m interested in coding, data analytics, statistics, economic theory and modeling, stock market trends, problem solving and so much more! 
 - 🌱 I’m currently learning Econometrics, Macroeconomics, Statistical Modeling, Automation Formal Language and Computational Complexity. In Spring 2023, I plan to take Analysis of Algorithms, Programming Implementation, Economic Development, and Coaching Methods, while working on a personal Shiny project. 
 - 📚 Relevant Courses I have taken include Statistical Modeling, Microeconomics, Discrete Structure, Algorithm and Object-Oriented Design, Linear Algebra, Differential Equations, Money and Banking, Imperative Problem Solving, and Applied Statistics.
