@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ethan.
+# Hi there! 👋 I'm Ethan. [View My Website](https://iflysohigh.github.io)
 
 ---
 
